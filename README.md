@@ -40,9 +40,6 @@
 
   <br/>
     <a href="https://github.com/DanielMadrigalVasquez/github-readme-stats"><img alt="DanielMadrigalVasquez Github Stats" src="https://github-readme-stats.vercel.app/api?username=DanielMadrigalVasquez&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/DanielMadrigalVasquez/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMadrigalVasquez&layout=compact&langs_count=10" /></a>
-  <br/>
-  <b>Note:</b> The above languages are just the ones I have worked with in the past, but does not reflect my proficiency since I keep learning more languages.
 
 
 <br/>
